@@ -43,5 +43,5 @@ Mejorar el proceso de gestion de citas en un consultorio medico usando IA.
 
 ## 5. Reflexión Personal
 
-Implementar IA en procesos tradicinales como la generacionn de citas puede ahorrar mucho tiempo y reducir errores humanos. Esto puede ayudar a que el personal de enfoque en otras tareas de mayor importacia. Ademas los pacientes disfrutan de un mejor servicio.
+- Implementar IA en procesos tradicinales como la generacionn de citas puede ahorrar mucho tiempo y reducir errores humanos. Esto puede ayudar a que el personal de enfoque en otras tareas de mayor importacia. Ademas los pacientes disfrutan de un mejor servicio.
 ---
